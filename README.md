@@ -10,4 +10,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ghards&show_icons=true&locale=en&theme=dracule&hide_title=true&include_all_commits=true&hide=contribs" alt="ghards" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghards&langs_count=4&locale=en&layout=compact&theme=dracule&hide_title=true" alt="ghards" /></p>
-  
+<p align="center"><a href="https://stackexchange.com/users/13394224"><img src="https://stackexchange.com/users/flair/13394224.png" width="208" height="58"></a></p>
