@@ -8,6 +8,6 @@
   <a href="https://facebook.com/gabriel.hardoim"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ghards&show_icons=true&locale=en&theme=dracule&hide_title=true&include_all_commits=true&hide=contribs" alt="ghards" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghards&langs_count=5&locale=en&layout=compact&theme=dracule&hide_title=true" alt="ghards" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ghardoim&show_icons=true&locale=en&theme=dracule&hide_title=true&include_all_commits=true&hide=contribs" alt="ghards" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghardoim&langs_count=5&locale=en&layout=compact&theme=dracule&hide_title=true" alt="ghards" /></p>
 <p align="center"><a href="https://pt.stackoverflow.com/users/110627/gabriel-hardoim?tab=profile"><img src="https://stackexchange.com/users/flair/13394224.png" width="208" height="58"></a></p>
