@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 🤖 Gabriel Hardoim</h1>
+<h1 align="center">Hello World! 🤖</h1>
 <h3 align="center">A Python Engineer Developed In Brazil</h3>
 <p align="center">⚡ Fun fact, <bold>I love Dinosaurs 🦕🦖</bold></p>
 
