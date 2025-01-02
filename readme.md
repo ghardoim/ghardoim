@@ -1,7 +1,11 @@
 <h1 align="center">Hello World! 🤖</h1>
 <h3 align="center">A Python Engineer Developed In Brazil</h3>
 <p align="center">⚡ Fun fact, <bold>I love Dinosaurs 🦕🦖</bold></p>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghardoim&theme=default&exclude=CSS" />
+  </a>
+</p>
 <h4 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ghardoim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghardoim" height="30" width="40" /></a>
